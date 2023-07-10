@@ -2,7 +2,7 @@ streamlit
 yfinance
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 math
 date
 relativedelta
