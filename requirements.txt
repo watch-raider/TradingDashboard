@@ -3,5 +3,4 @@ yfinance
 numpy
 pandas
 matplotlib
-date
 relativedelta
